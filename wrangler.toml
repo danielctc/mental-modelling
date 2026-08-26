@@ -1,0 +1,25 @@
+name = "mental-modelling"
+main = "src/index.ts"
+compatibility_date = "2026-08-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Deploys to <name>.<your-subdomain>.workers.dev out of the box. Add a
+# [[routes]] block if you want it on your own domain.
+workers_dev = true
+
+[observability]
+enabled = true
+
+# ── Optional: a server-side key ───────────────────────────────────────────────
+# Leave these unset and the tool asks each visitor for their own key, held in
+# their browser and never stored here. That is the intended shape for a shared
+# deployment.
+#
+# Set them only for a private instance where you want the key on the server:
+#
+#   wrangler secret put LLM_API_KEY
+#
+# [vars]
+# LLM_PROVIDER = "anthropic"          # or "openai-compatible"
+# LLM_MODEL    = "claude-haiku-4-5-20251001"
+# LLM_BASE_URL = ""                   # openai-compatible only; defaults to OpenRouter

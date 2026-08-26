@@ -1,0 +1,362 @@
+{
+ "thinking-abstraction-laddering": {
+  "slug": "thinking-abstraction-laddering",
+  "category": "Problem solving",
+  "blurb": "Reframe a problem at the right level of abstraction before solving it",
+  "question": "Am I even trying to solve the right problem?"
+ },
+ "thinking-archetypes": {
+  "slug": "thinking-archetypes",
+  "category": "Systems thinking",
+  "blurb": "Spot the structural pattern behind problems that keep coming back",
+  "question": "Why does this problem keep coming back?"
+ },
+ "thinking-bayesian": {
+  "slug": "thinking-bayesian",
+  "category": "Decision making",
+  "blurb": "Update your beliefs sensibly by weighing new evidence against the base rate",
+  "question": "How much should this new evidence change my mind?"
+ },
+ "thinking-bounded-rationality": {
+  "slug": "thinking-bounded-rationality",
+  "category": "Decision making",
+  "blurb": "Decide when an option is good enough so you can stop searching",
+  "question": "When should I stop searching and just choose something?"
+ },
+ "thinking-circle-of-competence": {
+  "slug": "thinking-circle-of-competence",
+  "category": "Self-awareness",
+  "blurb": "Know the limits of what you reliably understand before answering",
+  "question": "Do I actually know this well enough to answer?"
+ },
+ "thinking-concept-map": {
+  "slug": "thinking-concept-map",
+  "category": "Communication",
+  "blurb": "Map out how ideas in a domain relate so you can explain them clearly",
+  "question": "How do all these ideas fit together?"
+ },
+ "thinking-confidence-speed-quality": {
+  "slug": "thinking-confidence-speed-quality",
+  "category": "Decision making",
+  "blurb": "Let your confidence decide whether to ship fast or build properly",
+  "question": "Should I ship this quickly or take time to build it properly?"
+ },
+ "thinking-conflict-resolution-diagram": {
+  "slug": "thinking-conflict-resolution-diagram",
+  "category": "Problem solving",
+  "blurb": "Find solutions that meet both sides of an apparently impossible trade-off",
+  "question": "How can we meet both needs when it seems we must choose?"
+ },
+ "thinking-connection-circles": {
+  "slug": "thinking-connection-circles",
+  "category": "Systems thinking",
+  "blurb": "Trace tangled causes and effects down to the loops driving behaviour",
+  "question": "What is really driving this behaviour?"
+ },
+ "thinking-cynefin": {
+  "slug": "thinking-cynefin",
+  "category": "Decision making",
+  "blurb": "Choose the right approach by working out what kind of problem you face",
+  "question": "How should I even begin to tackle this?"
+ },
+ "thinking-debiasing": {
+  "slug": "thinking-debiasing",
+  "category": "Self-awareness",
+  "blurb": "Catch sunk-cost and confirmation bias before you double down on a failing path",
+  "question": "Am I talking myself into sticking with this despite the evidence?"
+ },
+ "thinking-decision-matrix": {
+  "slug": "thinking-decision-matrix",
+  "category": "Decision making",
+  "blurb": "Compare options fairly by scoring and weighting what matters",
+  "question": "How do I choose between these options without it being pure taste?"
+ },
+ "thinking-dual-process": {
+  "slug": "thinking-dual-process",
+  "category": "Decision making",
+  "blurb": "Slow down fast answers with an explicit verification pass before committing",
+  "question": "Should I trust my first instinct here?"
+ },
+ "thinking-effectuation": {
+  "slug": "thinking-effectuation",
+  "category": "Innovation",
+  "blurb": "Build strategy from the means you have when the future can't be predicted",
+  "question": "How do I make progress when I can't predict anything?"
+ },
+ "thinking-eisenhower-matrix": {
+  "slug": "thinking-eisenhower-matrix",
+  "category": "Decision making",
+  "blurb": "Sort tasks by importance and urgency to focus on what matters",
+  "question": "What should I actually be working on right now?"
+ },
+ "thinking-feedback-loops": {
+  "slug": "thinking-feedback-loops",
+  "category": "Systems thinking",
+  "blurb": "Find the loops driving runaway growth, collapse or stubborn resistance to change",
+  "question": "Why does this keep swinging or spiralling no matter what we do?"
+ },
+ "thinking-fermi-estimation": {
+  "slug": "thinking-fermi-estimation",
+  "category": "Estimation",
+  "blurb": "Get a rough number by breaking an unknown into estimable parts",
+  "question": "How can I get a number when there's nothing to look up?"
+ },
+ "thinking-first-principles": {
+  "slug": "thinking-first-principles",
+  "category": "Innovation",
+  "blurb": "Strip away assumptions and rebuild your thinking from what's actually true",
+  "question": "Is this constraint real or just how we've always done it?"
+ },
+ "thinking-five-whys-plus": {
+  "slug": "thinking-five-whys-plus",
+  "category": "Problem solving",
+  "blurb": "Trace a fault past its proximate cause to the systemic root",
+  "question": "What's the real root cause of this failure?"
+ },
+ "thinking-hard-choice-model": {
+  "slug": "thinking-hard-choice-model",
+  "category": "Decision making",
+  "blurb": "Judge how hard a choice really is before agonising over it",
+  "question": "Does this decision really deserve all this agonising?"
+ },
+ "thinking-iceberg-model": {
+  "slug": "thinking-iceberg-model",
+  "category": "Systems thinking",
+  "blurb": "Dig beneath visible events to find the structures and mental models driving them",
+  "question": "Why does this keep happening no matter what I do?"
+ },
+ "thinking-impact-effort-matrix": {
+  "slug": "thinking-impact-effort-matrix",
+  "category": "Decision making",
+  "blurb": "Sort your backlog by impact and effort to find the quick wins first",
+  "question": "What should I work on first with the time I have?"
+ },
+ "thinking-inversion": {
+  "slug": "thinking-inversion",
+  "category": "Risk",
+  "blurb": "Surface hidden risks by working out how your plan would fail",
+  "question": "What could go wrong with this plan?"
+ },
+ "thinking-ishikawa-diagram": {
+  "slug": "thinking-ishikawa-diagram",
+  "category": "Problem solving",
+  "blurb": "Map candidate causes across categories so you get breadth before committing to one theory",
+  "question": "What could be causing this problem?"
+ },
+ "thinking-issue-trees": {
+  "slug": "thinking-issue-trees",
+  "category": "Problem solving",
+  "blurb": "Split an overwhelming problem into separate branches and choose the one worth tackling",
+  "question": "Where do I even start with such a big problem?"
+ },
+ "thinking-jobs-to-be-done": {
+  "slug": "thinking-jobs-to-be-done",
+  "category": "Innovation",
+  "blurb": "Reframe what you build around the progress users are hiring it for",
+  "question": "What are people really trying to get done when they use my product?"
+ },
+ "thinking-kepner-tregoe": {
+  "slug": "thinking-kepner-tregoe",
+  "category": "Problem solving",
+  "blurb": "Compare what is and isn't affected to narrow down the root cause",
+  "question": "Why does this only affect some users and not others?"
+ },
+ "thinking-ladder-of-inference": {
+  "slug": "thinking-ladder-of-inference",
+  "category": "Self-awareness",
+  "blurb": "Retrace the steps from evidence to conclusion to see where you leapt",
+  "question": "Am I sure about this, or have I jumped to conclusions?"
+ },
+ "thinking-leverage-points": {
+  "slug": "thinking-leverage-points",
+  "category": "Systems thinking",
+  "blurb": "Rank places to intervene in a system by how much change they create",
+  "question": "Where do I intervene to actually change this system?"
+ },
+ "thinking-lindy-effect": {
+  "slug": "thinking-lindy-effect",
+  "category": "Decision making",
+  "blurb": "Judge how long something will last by how long it has already lasted",
+  "question": "Which of these options will still be around in a few years?"
+ },
+ "thinking-map-territory": {
+  "slug": "thinking-map-territory",
+  "category": "Problem solving",
+  "blurb": "Stop reasoning from descriptions and verify the real thing directly",
+  "question": "Why isn't this behaving the way it's supposed to?"
+ },
+ "thinking-margin-of-safety": {
+  "slug": "thinking-margin-of-safety",
+  "category": "Risk",
+  "blurb": "Add a buffer sized to the cost of being wrong",
+  "question": "How much slack do I need if things go wrong?"
+ },
+ "thinking-minto-pyramid": {
+  "slug": "thinking-minto-pyramid",
+  "category": "Communication",
+  "blurb": "Lead with your conclusion so busy readers get the point first",
+  "question": "How do I write this so busy people get the point?"
+ },
+ "thinking-model-combination": {
+  "slug": "thinking-model-combination",
+  "category": "Decision making",
+  "blurb": "See a problem through several models at once to cover blind spots",
+  "question": "Am I missing something by looking at this one way?"
+ },
+ "thinking-model-router": {
+  "slug": "thinking-model-router",
+  "category": "Problem solving",
+  "blurb": "Find the right thinking tool for whatever problem you're facing",
+  "question": "Which thinking tool should I use here?"
+ },
+ "thinking-model-selection": {
+  "slug": "thinking-model-selection",
+  "category": "Problem solving",
+  "blurb": "Pick the mental model that fits the problem in front of you",
+  "question": "How do I know which way of thinking fits this problem?"
+ },
+ "thinking-nonviolent-communication": {
+  "slug": "thinking-nonviolent-communication",
+  "category": "Communication",
+  "blurb": "Express difficult feelings as needs so others hear you without accusation",
+  "question": "How do I say this without starting a row?"
+ },
+ "thinking-occams-razor": {
+  "slug": "thinking-occams-razor",
+  "category": "Problem solving",
+  "blurb": "Test the simplest explanation before chasing complicated ones",
+  "question": "What's the simplest thing that could explain this?"
+ },
+ "thinking-ooda": {
+  "slug": "thinking-ooda",
+  "category": "Decision making",
+  "blurb": "Decide and act quickly on partial information, then adjust",
+  "question": "How do I act fast without waiting for full certainty?"
+ },
+ "thinking-opportunity-cost": {
+  "slug": "thinking-opportunity-cost",
+  "category": "Decision making",
+  "blurb": "Count the value of the best option you're giving up",
+  "question": "What am I giving up by choosing this?"
+ },
+ "thinking-pre-mortem": {
+  "slug": "thinking-pre-mortem",
+  "category": "Risk",
+  "blurb": "Surface hidden risks by imagining your plan has already failed",
+  "question": "What could go wrong with this plan that I haven't spotted?"
+ },
+ "thinking-probabilistic": {
+  "slug": "thinking-probabilistic",
+  "category": "Estimation",
+  "blurb": "Express forecasts as confidence ranges and update them as evidence arrives",
+  "question": "How confident should I actually be in this forecast?"
+ },
+ "thinking-productive-thinking-model": {
+  "slug": "thinking-productive-thinking-model",
+  "category": "Problem solving",
+  "blurb": "Move from a defined problem to a workable solution in six steps",
+  "question": "I know what the problem is, so how do I find the answer?"
+ },
+ "thinking-radical-candor": {
+  "slug": "thinking-radical-candor",
+  "category": "Communication",
+  "blurb": "Give honest feedback that challenges directly while showing you care",
+  "question": "How do I deliver hard feedback without damaging the relationship?"
+ },
+ "thinking-red-team": {
+  "slug": "thinking-red-team",
+  "category": "Risk",
+  "blurb": "Find security weaknesses by attacking your own system like an adversary",
+  "question": "How could an attacker get into my system?"
+ },
+ "thinking-regret-minimization": {
+  "slug": "thinking-regret-minimization",
+  "category": "Decision making",
+  "blurb": "Judge hard-to-undo choices by weighing recoverable losses against missed opportunities",
+  "question": "Will I regret not trying this when I look back?"
+ },
+ "thinking-reversibility": {
+  "slug": "thinking-reversibility",
+  "category": "Decision making",
+  "blurb": "Sort decisions by how easily they can be undone to decide faster",
+  "question": "Does this decision really need all this deliberation?"
+ },
+ "thinking-scientific-method": {
+  "slug": "thinking-scientific-method",
+  "category": "Problem solving",
+  "blurb": "Narrow down the cause of a fault by testing hypotheses cheaply first",
+  "question": "Which of these possible causes is actually breaking my code?"
+ },
+ "thinking-scqa": {
+  "slug": "thinking-scqa",
+  "category": "Communication",
+  "blurb": "Open documents and pitches so readers arrive ready to accept your answer",
+  "question": "How do I start this so my reader wants my recommendation?"
+ },
+ "thinking-second-order": {
+  "slug": "thinking-second-order",
+  "category": "Systems thinking",
+  "blurb": "Trace the downstream consequences of a decision beyond the immediate fix",
+  "question": "If I fix this now, what happens next?"
+ },
+ "thinking-situation-behavior-impact": {
+  "slug": "thinking-situation-behavior-impact",
+  "category": "Communication",
+  "blurb": "Deliver feedback that lowers defensiveness by naming the situation, behaviour and impact",
+  "question": "How do I give this feedback without them getting defensive?"
+ },
+ "thinking-six-thinking-hats": {
+  "slug": "thinking-six-thinking-hats",
+  "category": "Decision making",
+  "blurb": "Examine a decision through six lenses so no perspective dominates or gets skipped",
+  "question": "How do I make sure we consider every angle before deciding?"
+ },
+ "thinking-socratic": {
+  "slug": "thinking-socratic",
+  "category": "Problem solving",
+  "blurb": "Surface hidden requirements and false premises by asking clarifying questions before you build",
+  "question": "What are they actually asking me to build?"
+ },
+ "thinking-steel-manning": {
+  "slug": "thinking-steel-manning",
+  "category": "Decision making",
+  "blurb": "Build the strongest version of the opposing case before you reject it",
+  "question": "Am I dismissing this idea too quickly?"
+ },
+ "thinking-systems": {
+  "slug": "thinking-systems",
+  "category": "Systems thinking",
+  "blurb": "Trace causes across a whole system when no single component explains the behaviour",
+  "question": "Why does fixing one thing break something else?"
+ },
+ "thinking-theory-of-constraints": {
+  "slug": "thinking-theory-of-constraints",
+  "category": "Problem solving",
+  "blurb": "Focus all improvement effort on the one bottleneck that limits the whole pipeline",
+  "question": "What's actually slowing everything down?"
+ },
+ "thinking-thought-experiment": {
+  "slug": "thinking-thought-experiment",
+  "category": "Risk",
+  "blurb": "Walk the chain of consequences for scenarios you cannot cheaply test",
+  "question": "What would happen if this failed at a scale I can't test?"
+ },
+ "thinking-triz": {
+  "slug": "thinking-triz",
+  "category": "Innovation",
+  "blurb": "Resolve seemingly contradictory requirements by separating the conflict in time, space or condition",
+  "question": "How do I meet two requirements that seem to contradict each other?"
+ },
+ "thinking-via-negativa": {
+  "slug": "thinking-via-negativa",
+  "category": "Problem solving",
+  "blurb": "Ask what you can take away before adding another layer or process",
+  "question": "What can I remove instead of adding more?"
+ },
+ "thinking-zwicky-box": {
+  "slug": "thinking-zwicky-box",
+  "category": "Innovation",
+  "blurb": "Generate genuinely novel options by combining values across a problem's independent attributes",
+  "question": "How do I find options beyond the obvious ones?"
+ }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "mental-modelling",
+  "version": "1.0.0",
+  "private": false,
+  "license": "MIT",
+  "type": "module",
+  "description": "Sixty thinking tools, with a router that reads a plain-English problem and a step that applies the right model to it.",
+  "scripts": {
+    "extract": "python3 scripts/extract.py",
+    "cards": "python3 scripts/ox-cards.py",
+    "icons": "python3 scripts/gemini-icons.py",
+    "data": "python3 scripts/extract.py && python3 scripts/build-data.py",
+    "typecheck": "tsc --noEmit",
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260613.1",
+    "typescript": "^5",
+    "wrangler": "^4.84.0"
+  }
+}
